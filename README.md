@@ -1,5 +1,9 @@
 # Easymedia
 
+## Postman Collection
+
+https://www.postman.com/planetary-water-6999/workspace/imagineapp/collection/124662-db6f0c95-2e03-4c5f-99f2-84f9be7a95de?action=share&creator=124662
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
 ## Development server
